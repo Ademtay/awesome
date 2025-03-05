@@ -278,6 +278,7 @@
 <br>
 <a href="https://www.freepalestine.com">
     <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Free_Palestine_Banner.svg/1280px-Free_Palestine_Banner.svg.png" alt="Free Palestine">
+	    ![Free Palestine](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Free_Palestine_Banner.svg/1280px-Free_Palestine_Banner.svg.png)
 </a>
 <br>
 <br>
