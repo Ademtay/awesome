@@ -276,8 +276,9 @@
 <hr>
 <br>
 <br>
-<a href="https://vshymanskyy.github.io/StandWithUkraine">
-	<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
+<a href="https://www.freepalestine.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Free_Palestine_Banner.svg/1280px-Free_Palestine_Banner.svg.png" alt="Free Palestine">
+</a>
 </a>
 <br>
 <br>
